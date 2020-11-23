@@ -1,0 +1,13 @@
+.pro  {display: grid;
+grid-template-columns:50%    ;
+grid-template-rows:200px ;}
+
+
+
+
+
+
+div {background:yellow;} 
+div:hover {
+    border: 1px solid  purple;
+}
